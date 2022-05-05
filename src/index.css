@@ -37,7 +37,7 @@ body::before{
 .container{
   width: 100%;
   max-width: 500px;
-  margin: 100px auto;
+  margin: 50px auto;
   z-index: 1000;
   position: relative;
   padding: 0 20px;
